@@ -96,7 +96,7 @@ public class Main {
         collection2.add(3);
         collection2.add(3);
 
-        System.out.println("В эту очередь были добавлены одинаковые обьекты:");
+        System.out.println("В этот Set были добавлены одинаковые обьекты:");
         for (Object o : collection2){
             System.out.println(o);
         }
